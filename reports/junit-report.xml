@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites name="pytest tests">
+    <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="2" time="622.521"
+               timestamp="2025-08-05T00:52:13.445831+05:30" hostname="AmanPC">
+        <testcase classname="test_e2eframework" name="test_e2e[test_list_item0]" file="test_e2eframework.py" line="11"
+                  time="439.352"/>
+        <testcase classname="test_e2eframework" name="test_e2e[test_list_item1]" file="test_e2eframework.py" line="11"
+                  time="183.090"/>
+    </testsuite>
+</testsuites>

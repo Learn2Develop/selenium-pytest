@@ -1,0 +1,17 @@
+.venv
+.env
+.idea
+__pycache__
+Actions.py
+alerts.py
+childWindows.py
+config.py
+dynamicdropdown.py
+e2eTest.py
+excel_ops.py
+exercise.py
+frames.py
+main.py
+misc.py
+test_sortTable.py
+waitDemo.py
